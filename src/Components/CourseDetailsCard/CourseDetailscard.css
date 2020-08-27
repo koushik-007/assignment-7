@@ -1,0 +1,9 @@
+.card button{
+    color: #fff;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    padding: 13px;
+    font-size: 18px;
+}

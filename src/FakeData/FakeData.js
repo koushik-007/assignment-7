@@ -1,0 +1,92 @@
+const fakeData = [
+    {
+        courseName: "Learn Python Programming Masterclass",
+        details:"This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3",
+        instructor: "Jose Portilla",
+        price: "10",
+        image: "https://img-a.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
+        id: "01"
+        
+    },
+    {
+        courseName: "AWS Certified Solutions Architect - Associate 2020",
+        details: "Want to pass the AWS Solutions Architect - Associate Exam? Want to become Amazon Web Services Certified? Do this course!",
+        instructor: "Ryan Kroonenburg",
+        price: "16",
+        image: "https://img-a.udemycdn.com/course/240x135/362328_91f3_10.jpg",
+        id: "02"
+    },
+     {
+        courseName: "Learn Linux in 5 Days and Level Up Your Career",
+        details: "Use the in-demand Linux skills you learn in this course to get promoted or start a new career as a Linux professional.",
+        instructor: "Jason Canon",
+        price: "60",
+        image: "https://img-a.udemycdn.com/course/240x135/256758_e35d_5.jpg",
+        id: "03",
+    },
+    {
+        courseName:"CompTIA A+ Certification (220-1001)",
+        details:"Everything you need to pass the A+ Certification Core 1 (220-1001) Exam, from Mike Meyers and Total Seminars.",
+        instructor: "Mike Meyers",
+        price: "22",
+        image: "https://img-a.udemycdn.com/course/240x135/2359992_37e3_5.jpg",
+        id: "04",
+    },
+    {
+        courseName:"Illustrator CC 2020 MasterClass",
+        details: "Master Adobe Illustrator CC with this in-depth training for all levels.",
+        instructor: "Martin Pertiniyak",
+        price: "12",
+        image: "https://img-a.udemycdn.com/course/240x135/1197206_7201_3.jpg",
+        id: "05",
+    },
+    {
+        courseName: "Design Thinking in 3 Steps",
+        details: "Understand your audience, envision a creative solution, and test your prototype",
+        instructor: "Alan Cooper",
+        price: "18",
+        image: "https://img-a.udemycdn.com/course/240x135/1065056_41ed_5.jpg",
+        id: "06",
+    },
+    {
+        courseName: "PMP Exam Prep Seminar - PMBOK Guide 6",
+        details: "PMP Exam Prep Seminar - Earn 35 PDUs by completing the entire PMP course",
+        instructor: "Joseph Phillips",
+        price: "30",
+        image: "https://img-a.udemycdn.com/course/240x135/1361790_2eb7.jpg",
+        id: "07",
+    },
+    {
+        courseName: "The Complete Financial Analyst Course 2020 ",
+        details: "Excel, Accounting, Financial Statement Analysis, Business Analysis, Financial Math, PowerPoint: Everything is Included! ",
+        instructor: "Alan Jo",
+        price: " 40",
+        image: "https://img-a.udemycdn.com/course/240x135/648826_f0e5_4.jpg",
+        id: "08",
+    },
+    {
+        courseName: "Tableau 2020 A-Z: Hands-On Tableau Training for Data Science",
+        details: "Learn Tableau 2020 for data science step by step. Real-life data analytics exercises & quizzes included. Learn by doing! ",
+        instructor: "Kiril Enmeko",
+        price: "10",
+        image: "https://img-a.udemycdn.com/course/240x135/3367986_7cc8_3.jpg",
+        id: "09",
+    },
+    {
+        courseName: "Natural Language Processing with Deep Learning in Python ",
+        details: "Complete guide on deriving and implementing word2vec, GloVe, word embeddings, and sentiment analysis with recursive nets ",
+        instructor: "Lazy Programmer",
+        price: "99",
+        image: "https://img-a.udemycdn.com/course/240x135/573984_ce2a_3.jpg",
+        id: "10",
+    },
+    {
+        courseName: "The Complete Digital Marketing Course - 12 Courses in 1 ",
+        details: "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+        instructor: "Rob Percival",
+        price: "20",
+        image: "https://img-a.udemycdn.com/course/240x135/914296_3670_8.jpg",
+        id: "11",
+        },
+]
+export default fakeData;

@@ -1,0 +1,28 @@
+.header{
+    color: white;
+    margin-left: 100px;
+    max-width: 560px;
+    padding: 90px 20px;
+    position: relative;
+    width: 100%;
+    z-index: 3;
+    font-weight: 900;
+}
+.background{
+    background-image: url('./background-image/robot-girl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background button{
+    border-style: none;
+    background-color: white;
+    border-radius: 10px;
+    color: #2A73CC;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 25px;
+}
+.background button:hover{
+    color: white;
+    background-color: #2A73CC;
+}
